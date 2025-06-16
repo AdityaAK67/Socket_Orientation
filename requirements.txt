@@ -1,0 +1,6 @@
+numpy
+opencv-python-headless
+Pillow
+tensorflow==2.11.1
+h5py
+tk
